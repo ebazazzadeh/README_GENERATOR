@@ -39,12 +39,12 @@
     This is a readme generator using command prompts from node.js to create a file and write to all the parts you need to a create README
     
  
- ![image1](../images/images.jpg) 
+ ![image1](https://github.com/ebazazzadeh/README_GENERATOR/blob/main/images/images.jpg) 
  
   
     
  
- ![video1](../videos/Readme.gif) 
+ ![video1](https://github.com/ebazazzadeh/README_GENERATOR/blob/main/videos/Readme.gif) 
  
 
     
